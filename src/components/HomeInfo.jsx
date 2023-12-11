@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 
 import { arrow } from "../assets/icons";
+<img src="./src/assets/images.Contactpic.png" alt="logo" height="400px" />
 
 const HomeInfo = ({ currentStage }) => {
   if (currentStage === 1)
@@ -37,7 +38,7 @@ const HomeInfo = ({ currentStage }) => {
         </p>
 
         <Link to='https://anshul-portfolio087.netlify.app/' target="_blank" className='neo-brutalism-white neo-btn'>
-          Visit my portfolio
+          Check my resume!
           <img src={arrow} alt='arrow' className='w-4 h-4 object-contain' />
         </Link>
       </div>
