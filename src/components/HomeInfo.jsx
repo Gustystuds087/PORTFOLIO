@@ -9,7 +9,7 @@ const HomeInfo = ({ currentStage }) => {
       <h1 className='sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5'>
         Hi, Look for a<span  className='font-semibold mx-2 text-white'>Blue hut well, a Fox island and an extended circular island </span> 
         <br />
-       doubleclick + hold the island to move and explore the plane.
+       doubleclick + hold the island to move the plane to the left or right.
       </h1>
     );
 

@@ -184,7 +184,7 @@ export const projects = [
         theme: 'btn-back-blue',
         name: '3D Apple Website Clone ',
         description: 'Created a 3D website clone of the official Apple website. Used Three.js to import the 3D model and worked upon its dynamics and mechanics to make it mobile.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        link: 'https://github.com/Gustystuds087/Apple_clone',
     },
     {
         iconUrl: snapgram,
@@ -198,6 +198,6 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'Coming soon',
         description: '...',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
+        link: '/',
     }
 ];
