@@ -7,11 +7,9 @@ const HomeInfo = ({ currentStage }) => {
   if (currentStage === 1)
     return (
       <h1 className='sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5'>
-        Hi, I'm
-        <span className='font-semibold mx-2 text-white'>Anshul</span>
-        👋
+        Hi, Look for a<span  className='font-semibold mx-2 text-white'>Blue hut well, a Fox island and an extended circular island </span> 
         <br />
-        A FrontEnd Software Developer from India.
+       doubleclick + hold the island to move and explore the plane.
       </h1>
     );
 

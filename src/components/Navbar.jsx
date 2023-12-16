@@ -1,11 +1,12 @@
 import { NavLink } from "react-router-dom";
+import logoA from '@assets/images/logoA.png';
 
 
 const Navbar = () => {
   return (
     <header className='header'>
       <NavLink to='/'>
-        <img src="../src/assets/images/logoA.png" alt='logo' style={{height:'50px'}} />
+        <img src={logoA}alt='logo' style={{height:'50px'}} />
       </NavLink>
       <nav className='flex text-lg gap-7 font-medium'>
         <NavLink to='/about' className={({ isActive }) => isActive ? "text-blue-600" : "text-black" }>
