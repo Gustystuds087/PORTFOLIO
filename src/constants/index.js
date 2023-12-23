@@ -123,7 +123,7 @@ export const experiences = [
         company_name: "CodeClause",
         icon: vs,
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
+        date: "Apr 2023 - May 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
