@@ -196,8 +196,8 @@ export const projects = [
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
-        name: 'Coming soon',
-        description: '...',
-        link: '/',
+        name: 'MARK-0',
+        description: 'MARK-0 enables a hands-free experience by offering a comprehensive set of voice-activated automation capabilities. Users can perform a significant portion of tasks, manage projects, and control various functionalities without the need for manual input.',
+        link: 'https://github.com/Gustystuds087/MARK0',
     }
 ];
